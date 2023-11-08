@@ -1,3 +1,11 @@
+Protobytes is a fork of Dreamacro's project, which is licensed under the MIT License.
+
+The original project can be found at https://github.com/Dreamacro/protobytes.
+
+Protobytes is licensed under the GNU General Public License version 3 or later.
+
+See the file LICENSE for the full text of the license.
+
 # Protobytes
 
 Protobytes is a Go library inspired by Rust's crate bytes. It provides a series of methods for big-endian and little-endian number operations, as well as a helper for `io.Reader`.
